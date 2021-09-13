@@ -1,1 +1,1 @@
-{"batata":"<img src=x onerror=alert(document.domain)>"}
+{"batata":"<img <?php echo "oi"; ?> src=x onerror=alert(document.domain)>"}
